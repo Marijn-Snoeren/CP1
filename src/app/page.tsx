@@ -1,7 +1,7 @@
 "use client";
 
 import { ApolloWrapper } from "../apollo";
-import Blok from "../posts/Blok";
+import Blok from "./blok";
 
 const HomePage: React.FC = () => {
   return (
