@@ -1,12 +1,50 @@
-## V1
+# Upendo Website
 
-a
-![alt text](https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg)
+A 5-week project for our ICT & Media course, created for the client 2manydots. This website is designed based on a provided style guide and aims to promote simplified data visualization and configuration for SMEs and semi-government organizations worldwide.
 
-## V2
+## Table of Contents
 
-a
+    Project Overview
+    Technologies
+    Steps
+    Installation
+    Configuration
+    Usage
 
-## V3
+## Project Overview
 
-a
+The Upendo project aims to provide a streamlined platform for data visualization and configuration, focusing on responsive design, user experience, and ease of use for businesses. It includes key components for Configuration, Optimization, Visualization, Analysis, and Training.
+
+## Technologies
+
+The following technologies were used in this project:
+
+    Next.js: A React framework for server-side rendering.
+    GraphQL: For querying data.
+    Apollo: For managing GraphQL queries and mutations.
+    ACF Pro: Advanced Custom Fields plugin for WordPress integration.
+    WordPress: As the CMS for managing content.
+    Node.js: JavaScript runtime for running the project locally and managing dependencies.
+
+
+## Steps
+
+Clone the repository:
+
+    git clone https://github.com/your-repo/upendo-website.git
+
+Navigate into the project directory:
+
+    cd upendo-website
+
+Install dependencies:
+
+    npm install
+
+## Configuration
+
+Before running the project, ensure that you have the necessary environment variables set up (if applicable). You'll also need to configure the GraphQL and ACF connections in apollo.js.
+
+## Usage
+
+Add specific commands to start the development server or build the project.
