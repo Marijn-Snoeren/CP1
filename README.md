@@ -10,4 +10,4 @@ Bij de tweede versie heb ik de gemaakt review kaart gedupliceerd en deze in rije
 
 ## V3
 
-Bij de derde versie heb ik de scollbar verwijderd, deze hoort namelijk verborgen te zijn net als in ons gemaakte ontwerp.
+Bij de derde versie heb ik de scollbar verwijderd en het blok responsive gemaakt.
