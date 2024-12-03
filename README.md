@@ -1,12 +1,13 @@
-## V1
+![Screenshot 2024-12-03 at 14 38 36](https://github.com/user-attachments/assets/37d072e3-f464-4ffd-9160-439429ccc19a)
 
-a
-![alt text](https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg)
+
+## V1
+Bij de eerste versie heb ik de benodigde componenten aangemaakt en deze gestyled met tailwind.
+
 
 ## V2
-
-a
+Bij de tweede versie heb ik gewerkt aan het positioneren van de blokken achte elkaar.
+Daarnaast heb ik gewerkt aan het daadwerkelijk kunnen scrollen door de blokken zoals bij een carrousel, dit is helaas niet gelukt.
 
 ## V3
-
-a
+Bij de derde versie heb ik het blok responsive gemaakt voor mobile.
