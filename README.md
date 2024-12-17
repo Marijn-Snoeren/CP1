@@ -1,13 +1,17 @@
-![Screenshot 2024-12-03 at 14 38 36](https://github.com/user-attachments/assets/37d072e3-f464-4ffd-9160-439429ccc19a)
+# Desktop
+<img width="1253" alt="Screenshot 2024-12-17 at 21 45 11" src="https://github.com/user-attachments/assets/dad29c00-687a-4784-ad5e-8ce794d9eac1" />
 
+# v1
+- Basiscomponent aangemaakt met drie statische blokken.
+- Styling toegevoegd met Tailwind CSS.
+- Blokken zijn gepositioneerd in het midden van het scherm.
 
-## V1
-Bij de eerste versie heb ik de benodigde componenten aangemaakt en deze gestyled met tailwind.
+# v2
+- Positionering van de blokken aangepast om een carrousel-effect te creëren.
+- Toegevoegde functionaliteit voor het scrollen door de blokken.
+- Carrousel scrollfunctionaliteit gedeeltelijk geïmplementeerd, maar niet volledig werkend.
 
-
-## V2
-Bij de tweede versie heb ik gewerkt aan het positioneren van de blokken achte elkaar.
-Daarnaast heb ik gewerkt aan het daadwerkelijk kunnen scrollen door de blokken zoals bij een carrousel, dit is helaas niet gelukt.
-
-## V3
-Bij de derde versie heb ik het blok responsive gemaakt voor mobile.
+# v3
+- Toegevoegd: AOS-animatie voor vloeiende overgangseffecten bij het laden van de blokken.
+- Blok volledig responsive gemaakt voor mobiele apparaten.
+- De drie blokken behouden een dynamische opmaak en interactie op verschillende schermformaten.
