@@ -1,50 +1,31 @@
-# Upendo Website
+# CP1 - Personal Git
 
-A 5-week project for our ICT & Media course, created for the client 2manydots. This website is designed based on a provided style guide and aims to promote simplified data visualization and configuration for SMEs and semi-government organizations worldwide.
+Dit is mijn Personal Git Resporitory, hier vind je alle componenten die ik heb ontwikkeld en de versies die ik doorlopen heb. Deze repository is gestructureerd in branches, waarbij elke branch een specifiek component bevat met de verschillende versies en bijbehorende beschrijvingen.
 
-## Table of Contents
+---
 
-    Project Overview
-    Technologies
-    Steps
-    Installation
-    Configuration
-    Usage
+## 📂 Structuur van de Repository
 
-## Project Overview
+- **Branches per component**:  
+  Elke branch in deze repository is gewijd aan één component. Binnen de branch vind je:  
+  - **Versies**: Elke versie van het component.  
+  - **Beschrijving**: Documentatie over wat er is aangepast of verbeterd in de specifieke versie.
 
-The Upendo project aims to provide a streamlined platform for data visualization and configuration, focusing on responsive design, user experience, and ease of use for businesses. It includes key components for Configuration, Optimization, Visualization, Analysis, and Training.
+- **Hoofdbranch (main)**:  
+  De hoofdbranch bevat alleen algemene informatie / de readme.
 
-## Technologies
+---
 
-The following technologies were used in this project:
+## ✨ Functionaliteiten
 
-    Next.js: A React framework for server-side rendering.
-    GraphQL: For querying data.
-    Apollo: For managing GraphQL queries and mutations.
-    ACF Pro: Advanced Custom Fields plugin for WordPress integration.
-    WordPress: As the CMS for managing content.
-    Node.js: JavaScript runtime for running the project locally and managing dependencies.
+- **Versiebeheer**:  
+  Elke iteratie is afzonderlijk opgeslagen, zodat je eenvoudig kunt zien hoe het component zich heeft ontwikkeld.
 
+- **Gedetailleerde beschrijvingen**:  
+  Bij elke versie staat een uitleg over de gemaakte keuzes, implementaties en eventuele verbeteringen.
 
-## Steps
+---
 
-Clone the repository:
+## 🎯 Doel
 
-    git clone https://github.com/your-repo/upendo-website.git
-
-Navigate into the project directory:
-
-    cd upendo-website
-
-Install dependencies:
-
-    npm install
-
-## Configuration
-
-Before running the project, ensure that you have the necessary environment variables set up (if applicable). You'll also need to configure the GraphQL and ACF connections in apollo.js.
-
-## Usage
-
-Add specific commands to start the development server or build the project.
+Deze repository is bedoeld om mijn proces en ontwikkeling als designer en developer inzichtelijk te maken. Het laat zien hoe ik werk, iteraties uitvoer en oplossingen implementeer.
