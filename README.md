@@ -11,6 +11,8 @@ Dit is mijn Personal Git Resporitory, hier vind je alle componenten die ik heb o
   - **Versies**: Elke versie van het component.  
   - **Beschrijving**: Documentatie over wat er is aangepast of verbeterd in de specifieke versie.
 
+> [Blok CTA](https://github.com/Marijn-Snoeren/CP1/tree/Blok-CTA)
+
 - **Hoofdbranch (main)**:  
   De hoofdbranch bevat alleen algemene informatie / de readme.
 
