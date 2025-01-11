@@ -11,12 +11,12 @@ Dit is mijn Personal Git Resporitory, hier vind je alle componenten die ik heb o
   - **Versies**: Elke versie van het component.  
   - **Beschrijving**: Documentatie over wat er is aangepast of verbeterd in de specifieke versie.
   - > [Blok CTA](https://github.com/Marijn-Snoeren/CP1/tree/Blok-CTA)
-    > [Blok Carrousel](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Carrousel)
-    > [Blok Contact](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Contact)
-    > [Blok Info](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Info)
-    > [Blok Kernwaarden](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Kernwaarden)
-    > [Blok Opties](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Opties)
-    > [Blok Reviews](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Reviews)
+  - > [Blok Carrousel](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Carrousel)
+  - > [Blok Contact](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Contact)
+  - > [Blok Info](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Info)
+  - > [Blok Kernwaarden](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Kernwaarden)
+  - > [Blok Opties](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Opties)
+  - > [Blok Reviews](https://github.com/Marijn-Snoeren/CP1/tree/Blok-Reviews)
 
 - **Hoofdbranch (main)**:  
   De hoofdbranch bevat alleen algemene informatie / de readme.
